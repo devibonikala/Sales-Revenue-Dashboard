@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to analyze sales performance, revenue
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="" width="1000">
+  <img src="Screenshot 2026-07-05 152201.png" width="1000">
 </p>
 ---
 
