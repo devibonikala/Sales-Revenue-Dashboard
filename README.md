@@ -2,8 +2,11 @@
 
 An interactive Power BI dashboard designed to analyze sales performance, revenue trends, customer behavior, and product insights using the Sales Data Sample dataset.
 
-![Dashboard Preview](dashboard.png)
+<h2>📊 Dashboard Preview</h2>
 
+<p align="center">
+  <img src="" width="1000">
+</p>
 ---
 
 ## 📌 Project Overview
